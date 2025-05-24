@@ -1,4 +1,4 @@
-![logo] (https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+![logo] (https://github.com/himansirajgor8/himansirajgor8/blob/main/360_F_714788780_VwaeZ4mBTByT0u4taPvVGa40WWECqKdn.jpg)
 <h1 align="center">Hi 👋, I'm HIMANSI RAJGOR</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" widhth="200"  height="200"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
