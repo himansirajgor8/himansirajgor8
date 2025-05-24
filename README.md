@@ -1,7 +1,7 @@
-![logo] (https://github.com/himansirajgor8/himansirajgor8/blob/main/360_F_714788780_VwaeZ4mBTByT0u4taPvVGa40WWECqKdn.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm HIMANSI RAJGOR</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" widhth="200"  height="200"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="right" alt="coding" widhth="200"  height="200"src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himansirajgor8&label=Profile%20views&color=0e75b6&style=flat" alt="himansirajgor8" /> </p>
 
