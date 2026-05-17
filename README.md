@@ -1,6 +1,6 @@
 ![logo](https://github.com/himansirajgor8/himansirajgor8/blob/main/download%20(1).jpg)
 <h1 align="center">Hi 👋, I'm HIMANSI RAJGOR</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate cyber security from India</h3>
 <img align="right" alt="coding" widhth="200"  height="200"src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himansirajgor8&label=Profile%20views&color=0e75b6&style=flat" alt="himansirajgor8" /> </p>
